@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Challenge Dados Alura
 
-Rápida descrição do objetivo de fazer esse projeto
+Construção de um modelo de Machine Learning de classificação, para verificar a churn rate dos clientes da Novexus.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Modelo para classificar churn rate**
+| :label: Tecnologias | pythons, pandas, sckit-learn, seaborn (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
